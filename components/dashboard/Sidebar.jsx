@@ -27,6 +27,13 @@ const menuItems = [
     label: "Add Listings",
   },
   {
+    href: "/create-listing",
+    src: "/images/icons/dash3.svg",
+    width: 22,
+    height: 22,
+    label: "Tạo tin bán xe",
+  },
+  {
     href: "/favorite",
     src: "/images/icons/dash4.svg",
     width: 18,
